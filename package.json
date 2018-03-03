@@ -1,6 +1,6 @@
 {
   "name": "remarkably-simple-tags",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extensible Remarkable plugin for embedding content in markdown",
   "main": "index.js",
   "scripts": {
@@ -32,7 +32,8 @@
   "bugs": {
     "url": "https://github.com/Commander-lol/remarkably-simple-tags/issues"
   },
-  "tonicExampleFilename": "tonic.js",
+  "tonicExampleFilename": "example.js",
+  "runkitExampleFileName": "example.js",
   "homepage": "https://github.com/Commander-lol/remarkably-simple-tags#readme",
   "devDependencies": {
     "ava": "^0.25.0",

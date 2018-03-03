@@ -12,7 +12,7 @@ Credits to [Commander-lol](https://github.com/Commander-lol) for most
 of the code
 
 Try in your browser with
-[tonic](https://tonicdev.com/npm/remarkably-simple-tags)
+[RunKit+npm](https://npm.runkit.com/remarkably-simple-tags)
 
 By default `remarkably-simple-tags` comes with two plugins: One for
 [youtube](https://youtube.com) videos and one for
